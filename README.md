@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @August0412
+- 👋 Hi, I’m Atharv Ganer
 - 👀 I’m interested in creative things like building solutions for real life problems.
 - 🌱 I’m currently learning java and javascript.
 - 💞️ I’m looking to collaborate on open source platforms.
